@@ -1,4 +1,3 @@
-EntRel||||||||||||||11025..11118|||||||||||||||||11119|DEFAULT|
 EntRel||||||||||||||0..38||||||42..104|||||||||||42|DEFAULT|
 Explicit|68..69|Wr|Comm|Null|Null|||Expansion.Conjunction||||||46..65|Inh|Null|Null|Null||68..104|Inh|Null|Null|Null|||||||68..69|DEFAULT|
 NoRel||||||||||||||46..104||||||108..158|||||||||||108|DEFAULT|
